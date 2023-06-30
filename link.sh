@@ -1,5 +1,7 @@
 #!/bin/moz
 
+ssh-keygen
+
 file=""
 port=""
 
