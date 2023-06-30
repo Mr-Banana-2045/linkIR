@@ -5,13 +5,13 @@ Web file sharing easily
 
 ##install:
 <p>terminal one</p>
-<code>
+<pro>
 git clone https://github.com/Mr-Banana-2045/linkIR
 cd linlIR
 create file web ...
 bash link.sh -file ... -port ...
-</code>
+</pro>
 <p>terminal two</p>
-<code>
+<pro>
   php -S 127.0.0.1:...
-</code>
+</pro>
